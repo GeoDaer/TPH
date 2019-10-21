@@ -67,6 +67,18 @@ gulp.task('html',function(done){
 });
 
 // ########################################
+// MINIFY PHP
+gulp.task('php',function(done){
+    gulp.src(dist + '*.php',{force: true})
+        .pipe(clean());
+    gulp.src(src + '*.php')
+        .pipe(htmlmin({collapseWhitespace: true}))
+        .pipe(gulp.dest(dist))
+        .pipe(browserSync.stream());
+    done();
+});
+
+// ########################################
 // WATCH
 gulp.task('default',function(done){
 
@@ -75,6 +87,7 @@ gulp.task('default',function(done){
     });
 
     gulp.watch([src + '*.html'],['html']);
+    gulp.watch([src + '*.php'],['php']);
     gulp.watch([src + 'assets/sass/*.sass'],['sass']);
     gulp.watch([src + 'assets/js/*.js'],['js']);
     done();

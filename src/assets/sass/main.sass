@@ -1,2 +1,82 @@
+@import var
+
 body
-    background: #ff6600
+    background: $weiss
+    font-family: 'Lato', sans-serif
+    font-size: 1em
+    color: $dark-gray
+    margin: 0 auto
+    padding: 0px
+    width: 100%
+
+header
+    width: 100%
+    height: 125px
+    position: absolute
+    top: 0px
+    z-index: 999
+
+a
+    text-decoration: none
+    color: $weiss
+
+.bild
+    background-image: -webkit-linear-gradient(bottom, transparent 0%, rgba(0,0,0,0.7))
+    background-image: -o-linear-gradient(bottom, transparent 0%, rgba(0,0,0,0.7))
+    background-image: linear-gradient(to top, transparent 0%, rgba(0,0,0,0.7))
+
+#menu
+    width: 100%
+    height: 100px
+    display: flex
+    font-size: 18px
+    font-weight: 300
+    text-transform: uppercase
+
+    .Logo
+        margin: 25px
+        height: 100px
+
+    .navbar
+        position: absolute
+        height: 100px
+        color: $weiss
+        right: 200px
+
+        ul li
+            list-style-type: none
+            display: inline-block
+            padding: 45px 30px
+
+        a:hover
+            color: $rosa
+
+    .Icon
+        position: absolute
+        right: 0
+        margin: 55px 35px
+
+        img
+            height: 35px
+            margin-left: 15px
+
+#Startbild
+
+    img
+        width: 100%
+
+    .Vision
+        width: 100%
+        font-size: 2em
+        color: $weiss
+        text-align: center
+        text-transform: uppercase
+        position: absolute
+        top: 37vw
+
+    .first
+        font-size: 100px
+        display: none
+
+    .last
+        font-size: 20px
