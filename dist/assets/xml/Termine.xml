@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<termine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<termin datum="06.01.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Bibel im Gespräch</detail1>
+		<detail2>-</detail2>
+		<thema>Jahreslosung 2019</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="06.01.">
+		<zeit>14 - 17 Uhr</zeit>
+		<detail1>Winterspielplatz</detail1>
+		<detail2>im Treffpunkt Hoffnung</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="13.01.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Arne Clemm</detail2>
+		<thema>DNA - Was macht uns aus? | Teil 1</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="18.01.">
+		<zeit>19:30 Uhr</zeit>
+		<detail1>Abend der jungen Allianz</detail1>
+		<detail2>-</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="21.01.">
+		<zeit>10:15 Uhr</zeit>
+		<detail1>Abschluss Gottesdienst Allianz</detail1>
+		<detail2>in der Stadtkirche | Kein GoDi im TPH </detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="27.01.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Patrick vom Stein</detail2>
+		<thema>DNA - Was macht uns aus? | Teil 2</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="03.02.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Arne Clemm</detail2>
+		<thema>DNA - Was macht uns aus? | Teil 3</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="03.02.">
+		<zeit>14 - 17 Uhr</zeit>
+		<detail1>Winterspielplatz</detail1>
+		<detail2>im Treffpunkt Hoffnung</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="10.02.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Christopher Orth</detail2>
+		<thema>DNA - Was macht uns aus? | Teil 4</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="17.02.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Bärbel Olmesdahl</detail2>
+		<thema>Von Schweinefutter und Gnade</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="24.02.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Herzwerk</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="03.03.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Claus Schöngraf</detail2>
+		<thema>Das neue Gebot</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="03.03.">
+		<zeit>14-17 Uhr</zeit>
+		<detail1>Winterspielplatz</detail1>
+		<detail2>im Treffpunkt Hoffnung</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="10.03.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Bibel im Gespräch</detail1>
+		<detail2>-</detail2>
+		<thema>Die Bergpredigt - Von Splittern und Balken</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="17.03.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>André Wilkes</detail2>
+		<thema>Die Bergpredigt - Gebote neu entdeckt</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="24.03.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Thilo Mücher</detail2>
+		<thema>Die Bergpredigt - Vertrauen wagen</thema>
+		<bibel>Eph. 6, 10-20</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="31.03.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Carsten Polanz</detail2>
+		<thema>Islam und Christentum</thema>
+		<bibel>-</bibel>
+		<link>https://www.fthgiessen.de/polanz-carsten</link>
+	</termin>
+	<termin datum="07.04.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Arne Clemm</detail2>
+		<thema>Die Bergpredigt - Gottes offenes Ohr</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="07.04.">
+		<zeit>14:00 Uhr</zeit>
+		<detail1>Spielplatzaktion</detail1>
+		<detail2>Spielenachmittag</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="14.04.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Arne Clemm</detail2>
+		<thema>Von 2 verlorenen Söhnen</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="21.04.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Ostergottesdienst</detail1>
+		<detail2>Gestaltung durch Hauskreis</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="28.04.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Arne Clemm</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="05.05.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Bibel im Gespräch</detail1>
+		<detail2>-</detail2>
+		<thema>Begegnung mit Gott - im Gebet</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="05.05.">
+		<zeit>14:00 Uhr</zeit>
+		<detail1>Spielplatzaktion</detail1>
+		<detail2>Spielenachmittag</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="12.05.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Alex Hefke</detail2>
+		<thema>Begegnung mit Gott - in Gemeinschaft</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="19.05.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Arne Clemm</detail2>
+		<thema>Begegnung mit Gott - in Aktion</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="26.05.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Peter Linder</detail2>
+		<thema>Begegnung mit Gott - in der Stille</thema>
+		<bibel>1. Könige 19</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="02.06.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Manuel Ramminger</detail2>
+		<thema>Wer braucht Jesus?</thema>
+		<bibel>-</bibel>
+		<link>https://ywammadison.org/manuel-brandy-ramminger</link>
+	</termin>
+	<termin datum="02.06.">
+		<zeit>14:00 Uhr</zeit>
+		<detail1>Spielplatzaktion</detail1>
+		<detail2>Treffen am Markt beim JuCa</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="09.06.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Open Air Gottesdienst</detail1>
+		<detail2>beim Trassenfest</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="16.06.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Manuel von den Eichen</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="23.06.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Arne Clemm</detail2>
+		<thema>Indiana Jones und die versteckte Reliquie von Äthiopien - Und was Gottes Charakter damit zu tun hat</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="30.06.">
+		<zeit>11:30 Uhr</zeit>
+		<detail1>Allianz Gottesdienst</detail1>
+		<detail2>Kuhler Heide in Eipringhausen</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="07.07.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Friedemann Schmidt</detail2>
+		<thema>Die Geschichtr deines Lebens</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="07.07.">
+		<zeit>14:00 Uhr</zeit>
+		<detail1>Spielplatzaktion</detail1>
+		<detail2>Spielenachmittag</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="14.07.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Heiko Hagemann</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>https://ethnos360.de</link>
+	</termin>
+	<termin datum="21.07.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Gerhard Küllgen</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="28.07.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Bibel im Gespräch</detail1>
+		<detail2>-</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="04.08.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Dominik Zahn</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="04.08.">
+		<zeit>14:00 Uhr</zeit>
+		<detail1>Spielplatzaktion</detail1>
+		<detail2>Spielenachmittag</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="11.08.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Treffen zum gemeinsammen Spaziergang</detail1>
+		<detail2>mit anschließendem meet and eat</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="18.08.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Abschlussgottesdienst der</detail1>
+		<detail2>Hoffnungswoche in Dhünn</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="25.08.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Schulstartgottesdienst mit</detail1>
+		<detail2>Arne Clemm</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>/images/Flyer/Schulstartgottesdienst.jpg</link>
+	</termin>
+	<termin datum="01.09.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Uli Abels</detail2>
+		<thema>'Weggabelungen': Scheitern und Ende oder Chance zum Neuanfang?</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="01.09.">
+		<zeit>14:00 Uhr</zeit>
+		<detail1>Spielplatzaktion</detail1>
+		<detail2>Spielenachmittag</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="08.09.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Zeugnis und Lobpreis Gottesdienst</detail1>
+		<detail2>mit Arne Clemm</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="15.09.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Arne Clemm</detail2>
+		<thema>Kirche für andere</thema>
+		<bibel>Jesaja 56, 1-8</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="22.09.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Bibel im Gespräch</detail1>
+		<detail2>-</detail2>
+		<thema>Hauskreise nach</thema>
+		<bibel>Apg. 2.42</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="29.09.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Arne Clemm</detail2>
+		<thema>Die Bibel ist unsere Betriebsanleit</thema>
+		<bibel>2. Tim. 3, 16</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="06.10.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Erntedankgottesdienst</detail1>
+		<detail2>-</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="06.10.">
+		<zeit>14:00 Uhr</zeit>
+		<detail1>Spielplatzaktion</detail1>
+		<detail2>Spielenachmittag</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="13.10.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Matthias Behr</detail2>
+		<thema>Mentoring / Potential entdecken und entfalten</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="20.10.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Claudia und Christian Freisleben</detail2>
+		<thema>Verloren- was ist das?</thema>
+		<bibel>"Verlorener Sohn" Lukas 15</bibel>
+		<link>https://www.allianz-mission.de/japan.html?id=62</link>
+	</termin>
+	<termin datum="27.10.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Bärbel Olmesdahl</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="03.11.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Klaus Schmidt</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>https://www.tsr.de/klaus-schmidt_2</link>
+	</termin>
+	<termin datum="10.11.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Arne Clemm</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="17.11.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Mario Bechmann</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="24.11.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Bibel im Gespräch</detail1>
+		<detail2>-</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="01.12.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>Arne Clemm</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="08.12.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>-</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="15.12.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>-</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="22.12.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>-</detail1>
+		<detail2>-</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="24.12.">
+		<zeit>16:00 Uhr</zeit>
+		<detail1>Gottesdienst</detail1>
+		<detail2>Heiligabend</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="29.12.">
+		<zeit>10:30 Uhr</zeit>
+		<detail1>Gottesdienst mit</detail1>
+		<detail2>-</detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+	<termin datum="31.12.">
+		<zeit>17:00 Uhr</zeit>
+		<detail1>Abschluss Gebetszeit</detail1>
+		<detail2></detail2>
+		<thema>-</thema>
+		<bibel>-</bibel>
+		<link>-</link>
+	</termin>
+</termine>
